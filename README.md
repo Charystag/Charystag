@@ -1,7 +1,7 @@
 <!-- The goal is to write a README file for my repository nsainton/nsainton on github-->
-# Ahoy Captain! Welcome to my GitHub page!
+# Ahoy Captain ⚓️! Welcome to my GitHub page!
 
-#Introduction
+# Introduction
 
 ## Who am I?
 
