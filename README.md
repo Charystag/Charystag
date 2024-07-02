@@ -25,9 +25,17 @@ My pinned repositories are the ones I've been working on lately, but feel free t
 4.  [Lazyprototypes](https://github.com/Charystag/lazyprototypes)
     - A script written in C to generate prototypes for C functions. The goal was to automate the process of writing prototypes for C functions.
 
+
+# Tutorials
+
+I recently started to share what I learned during my programming journey. 
+
+- [Solutions to the Overthewire Challenges](https://github.com/Charystag/Overthewire-solutions) *Right now, I've fully documented the 
+[bandit](https://github.com/Charystag/Overthewire-solutions/tree/master/bandit) challenge*
+
 # Ressources
 
-By clicking the [link](https://github.com/Charystag/Learning-Material), you'll access my list of ressources in which list you'll find books, Github repositories and videos about different programming topics.
+I've been gathering a lot of ressources which I found useful and relevant (some of them were very helpful), they are all listed [here](https://github.com/Charystag/Learning-Material).
 
 # Contact
 
