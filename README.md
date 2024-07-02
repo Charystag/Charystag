@@ -25,6 +25,10 @@ My pinned repositories are the ones I've been working on lately, but feel free t
 4.  [Lazyprototypes](https://github.com/nsainton/lazyprototypes)
     - A script written in C to generate prototypes for C functions. The goal was to automate the process of writing prototypes for C functions.
 
+# Ressources
+
+By clicking the [link](https://github.com/nsainton/Learning-Material), you'll access my list of ressources in which list you'll find books, Github repositories and videos about different programming topics.
+
 # Contact
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/noah-saintonge-51661015a) or send me an [email](mailto:nsainton@student.42.fr). I am always looking for new projects to work on and I am always looking for ways to improve my skills.
