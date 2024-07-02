@@ -22,7 +22,7 @@ I consider my GitHub account like a personnal diary of code where I can experime
 
 On my account you will find a lot of my personnal projects. I love to automate things and to do so in a user friendly way (being lazy is being efficient). <br/>
 My pinned repositories are the ones I've been working on lately, but feel free to check out my other repositories, you might find something that suits your needs.
-You'll also find a repository called [Learning Material](https://github.com/Charystag/Learning_Material) where you'll find a lot of useful ressources to 
+You'll also find a repository called [Learning Material](https://github.com/Charystag/Learning-Material) where you'll find a lot of useful ressources to 
 learn (or enhance) your programming skills.
 
 # Projects
