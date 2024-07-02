@@ -36,8 +36,8 @@ At the moment, I am looking to apply my bash skills to work on some automation p
 
 # Some stats
 
-![Lazydev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsainton&show_icons=true&theme=radical)
-![Lazydev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsainton&layout=compact&theme=radical)
+![Lazydev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charystag&show_icons=true&theme=radical)
+![Lazydev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charystag&layout=compact&theme=radical)
 
 # Conclusion
 
