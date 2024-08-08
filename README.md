@@ -61,6 +61,7 @@ At the moment, I am looking to apply my bash skills to work on some automation p
 
 ![Charystag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charystag&show_icons=true&theme=radical)
 ![Charystag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charystag&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 # Conclusion
 
