@@ -4,27 +4,16 @@
 
 ## Introduction
 
-## Who am I?
+Hey there! 👋 I'm a software engineer with a passion for creating **innovative solutions** to real-world problems using **automation**. 
+I believe in working smarter, not harder, and I love automating complex workflows to make life easier. 
+From **Bash scripting** to building custom tools, I’m constantly seeking ways to solve challenges creatively.
 
-I am a software engineer, currently a student at 42 Paris. I am passionate about programming and I am always looking for new challenges. As my username suggests it, I am a big fan of automation and I am always looking for ways to make my life easier. I took a strong interest in bash scripting and am currently writting tons of scripts to automate my daily tasks.
+I'm also a strong advocate of clear and concise **documentation**. 
+I see it as an essential part of delivering efficient solutions, whether for developers or users. 
+By reading and writing documentation, I prevent unnecessary bugs and create a roadmap for myself and others to navigate projects with ease.
 
-I am basically a documentation lover. 
-I love to read and write documentation because I think it is the best way to communicate with the people, be they developpers or users.
-
-1. Reading documentation allows me to prevent any obvious bug and to ensure that the code I write using any software/library complies with 
-how the software or library should be used. Basically all the bugs that happen because one don't read the documentation are 
-stupid bugs. I'd rather spend 10 or 20 more minutes reading the doc than spending 1 or 2 hours debugging stupid mistakes.
-
-2. Writting documentation allows me to keep an organized memo of how to use the project and how it works (or is intended to work). I assume that there 
-will come a time at which I'll forget all about the project and I will need said documentation to use it and maintain it if I need to work on it again. 
-I consider my GitHub account like a personnal diary of code where I can experiment and record all my progress.
-
-## What can you find here?
-
-On my account you will find a lot of my personnal projects. I love to automate things and to do so in a user friendly way (being lazy is being efficient). <br/>
-My pinned repositories are the ones I've been working on lately, but feel free to check out my other repositories, you might find something that suits your needs.
-You'll also find a repository called [Learning Material](https://github.com/Charystag/Learning-Material) where you'll find a lot of useful ressources to 
-learn (or enhance) your programming skills.
+Explore my repositories, where you'll find **personal projects** focused on automation, 
+and a curated collection of [**learning materials**](https://github.com/Charystag/Learning-Material) to help enhance your programming skills.
 
 # Projects
 
