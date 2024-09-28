@@ -1,6 +1,6 @@
 <!-- The goal is to write a README file for my repository Charystag/Charystag on github-->
 
-# :rocket: Innovating with Automation: From Ideas to Real-World Solutions :bulb:
+# :rocket: Innovating with Automation: From Ideas to Real-World Solutions 
 
 ## Introduction 
 
