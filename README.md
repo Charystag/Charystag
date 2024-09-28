@@ -1,7 +1,8 @@
 <!-- The goal is to write a README file for my repository Charystag/Charystag on github-->
-# Ahoy Captain ⚓️! Welcome to my GitHub page!
 
-# Introduction
+# 🚀 Innovating with Automation: From Ideas to Real-World Solutions 💡
+
+## Introduction
 
 ## Who am I?
 
