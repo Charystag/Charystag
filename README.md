@@ -2,7 +2,7 @@
 
 # 🚀 Innovating with Automation: From Ideas to Real-World Solutions 💡
 
-## Introduction
+## Introduction {#introduction}
 
 Hey there! 👋 I'm a software engineer with a passion for creating **innovative solutions** to real-world problems using **automation**. 
 I believe in working smarter, not harder, and I love automating complex workflows to make life easier. 
@@ -15,20 +15,40 @@ By reading and writing documentation, I prevent unnecessary bugs and create a ro
 Explore my repositories, where you'll find **personal projects** focused on automation, 
 and a curated collection of [**learning materials**](https://github.com/Charystag/Learning-Material) to help enhance your programming skills.
 
-# Projects
+## Table of Contents
+- [🚀 Innovating with Automation: From Ideas to Real-World Solutions 💡](#)
+- [Introduction](#introduction)
+- [Projects](#projects)
+- [Tutorials](#tutorials)
+- [Learning Resources](#learning-resources)
+- [Technologies I Use](#technologies-i-use)
+- [GitHub Stats](#github-stats)
+- [Contact](#contact)
+- [Conclusion](#conclusion)
 
-## Documented Personal Projects
+## 🛠️ Projects {#projects}
 
-1.  [classcreator](https://github.com/Charystag/classcreator)
-    - A small script written in bash to create a class in C++. The goal was to automate the process of creating a class in C++.
-2.  [video\_tutorial](https://github.com/Charystag/video_tutorial)
-    - A small script written in bash to make video demonstration for Scripts. The goal was to automate the process of creating video tutorials for scripts.
-3.  [man\_reader](https://github.com/Charystag/man_reader)
-    - A small script written in bash to navigate through the man pages. The goal was to make the reading of man pages easier for the user.
-4.  [Lazyprototypes](https://github.com/Charystag/lazyprototypes)
-    - A script written in C to generate prototypes for C functions. The goal was to automate the process of writing prototypes for C functions.
-5.  [Cmake Project](https://github.com/Charystag/CMake_Project)
-    - A small project to showcase how to use CMake, Doxygen and GitHub Actions alltogether.
+Here are some of the projects where I’ve applied automation to tackle real-world challenges:
+
+1. [Markdown Links Checker](https://github.com/Charystag/markdown_links_checker) - 🔗 **Validating URLs in Markdown Documents**
+   A tool designed to check the validity of HTTP(S) URLs in Markdown documents. This script automates the process of verifying links, making sure that documentation remains accurate and functional. It’s perfect for anyone maintaining markdown-based documentation with external links.
+   - **Tools Used:** Bash, curl
+
+2. [Classcreator](https://github.com/Charystag/classcreator) - 🚀 **Automating C++ Class Creation**
+   A Bash script that automates the process of creating classes in C++. This tool helps speed up C++ development by eliminating repetitive tasks, allowing developers to focus on writing actual code.
+   - **Tools Used:** Bash
+
+3. [Video Tutorial](https://github.com/Charystag/video_tutorial) - 🎬 **Automating Video Demos for Scripts**
+   This script automates the creation of video demonstrations for other scripts, making it easier to showcase and share coding tutorials. No need for manual screen recording setups!
+   - **Tools Used:** Bash
+
+4. [Man Reader](https://github.com/Charystag/man_reader) - 📖 **Simplifying the Reading of Man Pages**
+   A Bash script that helps navigate through Linux man pages more easily, making it faster to find the exact information needed. Perfect for developers who want to streamline their terminal workflow.
+   - **Tools Used:** Bash, Linux
+
+5. [Lazyprototypes](https://github.com/Charystag/lazyprototypes) - 📝 **Generating C Function Prototypes Automatically**
+   A C-based tool that generates prototypes for C functions, automating the tedious task of writing them manually. This tool reduces development time and ensures consistency in code structure.
+   - **Tools Used:** C, Bash
 
 
 # Tutorials
